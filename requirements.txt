@@ -1,0 +1,23 @@
+# Data handling and analysis
+pandas==2.0.3
+numpy==1.23.5
+
+# Machine Learning and ML algorithms
+scikit-learn==1.2.2
+
+# Data visualization and plotting
+plotly==5.14.0
+
+# Time series and date-time manipulation
+datetime==4.3
+statsmodels==0.14.0
+
+
+# Web scraping (for scraping stock data)
+beautifulsoup4==4.12.0
+requests==2.28.2
+
+# Additional useful dependencies
+scipy==1.10.1
+pytz==2023.3
+
